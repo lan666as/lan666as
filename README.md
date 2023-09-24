@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Ahmad Zidan's Profile Picture](RackMultipart20230924-1-rl9hvn_html_18f98e26dc340b86.jpg)
+<!-- ### Hi there 👋 -->
 
 # Ahmad Zidan
 **Software Engineer | Data Scientist | Data Engineer**  
@@ -16,49 +14,31 @@ Multifaceted information engineering fresh graduate from UGM with a keen interes
 - **Gadjah Mada University**  
   B.E. in Information Engineering  
   CGPA: 3.65/4.0 (Aug 2019 - Oct 2023)  
-  **Relevant Courses:** Algorithm & Data Structure, Object Oriented Programming, ... (and more)  
+  **Relevant Courses:** Algorithm & Data Structure, Object Oriented Programming, Operating System, Database Technology, Software Architecture, Software Engineering, Computer Network, Web Application Development, Cloud Computing, Computer Security, Application and Information Integration, Natural Language Processing
   **Thesis:** "Improving Text Style Transfer from Informal to Formal Indonesian: A Pretraining Approach with Pseudodata"
 
 ## 💼 Professional Experiences
 
-- **Pijar Foundation** - AI Engineer Intern (Feb 2023 - Sep 2023)  
-  - Created a LLM-based chatbot for students on Telegram.
-  - Optimized application memory usage by 90%.
-  - ... (and more achievements)
-
-- **JALA Tech** - Data Analyst Intern (Dec 2022 - Feb 2023)  
-  - Orchestrated annotation process for satellite images.
-  - Formulated an instance segmentation model.
-  - ... (and more achievements)
-
-... (similar format for other experiences)
+- **Pijar Foundation** - AI Engineer Intern (Feb 2023 - Sep 2023)
+- **JALA Tech** - Data Analyst Intern (Dec 2022 - Feb 2023)
+- **Institute for Policy Development (PolDev) UGM** - Data Engineer Intern (Jul 2022 - Dec 2022)
+- **KLINIKOO** - AI Engineer Intern (Jan 2022 - Feb 2022)
 
 ## 🌟 Leadership & Activities
 
-- **Semar UGM** - Software Engineer (Feb 2023 - Apr 2023)  
-  - Programmed a radar-based autonomous agent.
-  - Won 1st place in Shell Eco-marathon 2023's Competition.
-
-... (similar format for other activities)
+- **Semar UGM** - Software Engineer (Feb 2023 - Apr 2023)
+- **KKN-PPM UGM 2022 Ternate Barat Mempesona** - Full Stack Developer (Jun 2022 - Aug 2022)
+- **Badan Eksekutif Mahasiswa (BEM) KM UGM** - Director General of Digital Research (Jan 2021 - Dec 2021)
+- **International Genetically Engineered Machine (iGEM) UGM** - Head of Wiki (Aug 2021 - Nov 2021)
+- **Pelatihan Pembelajar Sukses bagi Mahasiswa Baru (PPSMB) UGM** - Web Developer & Hardware Engineer (Mar 2021 - Aug 2021)
+- **Find IT! UGM** - Head of Capture the Flag Technical Committee (Jan 2021 - Jun 2021)
+- **Komisi Pemilihan Umum Mahasiswa (KPUM) KM UGM** - Coordinator of Information Technology Division (Jul 2020 - Nov 2020)
 
 ## 💡 Skills & Interests
 
 **Programming Languages:** C, C++, C#, Python, ... (and more)  
 **Frameworks:** PyTorch, React, ... (and more)  
-**Data Science:** Machine Learning, Natural Language Processing, ... (and more)  
-... (similar format for other skills)
-
-## 🏅 Honors & Awards
-
-- Global 1st Place in Shell Eco-marathon 2023 (Shell)
-- Silver Medalist in iGEM 2021 (iGEM)
-... (similar format for other awards)
-
-## 📜 Certificates
-
-- **English Proficiency Test (TOEFL ITP Prediction)** - Score: 587/677 (May 2023)
-- **Participants in Pelatihan Nasional for IOI 2019** (Sep 2018 - Oct 2018)
-... (similar format for other certificates)
+**Data Science:** Machine Learning, Natural Language Processing, ... (and more)
 
 <!--
 **lan666as/lan666as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
