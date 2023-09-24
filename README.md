@@ -1,20 +1,24 @@
 <!-- ### Hi there 👋 -->
 
 # Ahmad Zidan
-**Software Engineer | Data Scientist | Data Engineer**  
-📧 [me@zidan.dev](mailto:me@zidan.dev)  
-📞 [+62 8222-666-4400](http://wa.me/+6282226664400)  
-🌐 [LinkedIn](https://linkedin.com/in/a-zidan) | [GitHub](https://github.com/lan666as)  
-📍 Sleman, Yogyakarta 55584
+_Software Engineer / Data Scientist / Data Engineer_
 
-Multifaceted information engineering fresh graduate from UGM with a keen interest in software engineering, data science, and information security. Contributed to projects across various domains and roles, driven by a commitment to excellence.
+📧 [me@zidan.dev](mailto:me@zidan.dev)  
+🌐 [LinkedIn](https://linkedin.com/in/a-zidan)  
+👾 [GitHub](https://github.com/lan666as)  
+📍 Sleman, Yogyakarta 55584  
+
+Multifaceted information engineering fresh graduate from UGM with a keen interest in software engineering, data science, and information security. Contributed to projects across various domains and roles, driven by a commitment to excellence.  
 
 ## 🎓 Education
 
-- **Gadjah Mada University**  
-  B.E. in Information Engineering  
-  CGPA: 3.65/4.0 (Aug 2019 - Oct 2023)  
+- **Gadjah Mada University**
+  B.E. in Information Engineering
+  
+  CGPA: 3.65/4.0 (Aug 2019 - Oct 2023)
+  
   **Relevant Courses:** Algorithm & Data Structure, Object Oriented Programming, Operating System, Database Technology, Software Architecture, Software Engineering, Computer Network, Web Application Development, Cloud Computing, Computer Security, Application and Information Integration, Natural Language Processing
+  
   **Thesis:** "Improving Text Style Transfer from Informal to Formal Indonesian: A Pretraining Approach with Pseudodata"
 
 ## 💼 Professional Experiences
