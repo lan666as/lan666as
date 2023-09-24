@@ -12,7 +12,7 @@ Multifaceted information engineering fresh graduate from UGM with a keen interes
 
 ## 🎓 Education
 
-- **Gadjah Mada University**
+### **Gadjah Mada University**
   - B.E. in Information Engineering  
   CGPA: 3.65/4.0 (Aug 2019 - Oct 2023)  
   - **Relevant Courses:** Algorithm & Data Structure, Object Oriented Programming, Operating System, Database Technology, Software Architecture, Software Engineering, Computer Network, Web Application Development, Cloud Computing, Computer Security, Application and Information Integration, Natural Language Processing  
