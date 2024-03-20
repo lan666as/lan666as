@@ -46,6 +46,9 @@ Multifaceted information engineering fresh graduate from UGM with a keen interes
 - **Data Science:** Machine Learning, Natural Language Processing, Computer Vision, Social Network Analysis, Statistics  
 - **Others:** Cloud Computing (_Azure, GCP_), Database/SQL, Data Engineering (_Spark, Hadoop, Kafka_), Data Analytics (_Tableau, Superset_), Information/Web Security, Cryptography, Internet of Things (_ESP32, Arduino, Raspberry Pi_)  
 
+![lan666as's GitHub stats](https://github-readme-stats-phi-peach-67.vercel.app/api?username=lan666as&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![lan666as's Top Langs](https://github-readme-stats-phi-peach-67.vercel.app/api/top-langs/?username=lan666as&size_weight=0.5&count_weight=0.5&langs_count=10&layout=pie&theme=transparent)
+
 <!--
 **lan666as/lan666as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
