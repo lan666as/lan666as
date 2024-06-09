@@ -20,6 +20,7 @@ Multifaceted information engineering graduate from UGM with a keen interest in s
 
 ## 💼 Professional Experiences
 
+- **Traveloka** - _Software Engineer_ (Feb 2024 - now)
 - **Pijar Foundation** - _AI Engineer Intern_ (Feb 2023 - Sep 2023)  
 - **JALA Tech** - _Data Analyst Intern_ (Dec 2022 - Feb 2023)  
 - **Institute for Policy Development (PolDev) UGM** - _Data Engineer Intern_ (Jul 2022 - Dec 2022)  
