@@ -8,14 +8,13 @@ _Software Engineer / Data Scientist / Data Engineer_
 👾 [GitHub](https://github.com/lan666as)  
 📍 Sleman, Yogyakarta 55584  
 
-Multifaceted information engineering fresh graduate from UGM with a keen interest in software engineering, data science, and information security. Contributed to projects across various domains and roles, driven by a commitment to excellence.  
+Multifaceted information engineering graduate from UGM with a keen interest in software engineering, data science, and information security. Contributed to projects across various domains and roles, driven by a commitment to excellence.  
 
 ## 🎓 Education
 
 ### **Gadjah Mada University**
   - B.E. in Information Engineering  
   CGPA: 3.66/4.0 (Aug 2019 - Oct 2023)  
-  - **Relevant Courses:** Algorithm & Data Structure, Object Oriented Programming, Operating System, Database Technology, Software Architecture, Software Engineering, Computer Network, Web Application Development, Cloud Computing, Computer Security, Application and Information Integration, Natural Language Processing  
   - **Thesis:** "Improving Text Style Transfer from Informal to Formal Indonesian: A Pretraining Approach with Pseudodata"  
   Enhanced Indonesian formality style transfer using pseudodata generated from token/character-level rules, incorporating WordNet, Part-of-Speech, lemma, and colloquial confusion sets, trained Tranformer model with Fairseq in PyTorch.
 
@@ -34,17 +33,7 @@ Multifaceted information engineering fresh graduate from UGM with a keen interes
 - **International Genetically Engineered Machine (iGEM) UGM** - _Head of Wiki_ (Aug 2021 - Nov 2021)  
 - **Pelatihan Pembelajar Sukses bagi Mahasiswa Baru (PPSMB) UGM** - _Web Developer & Hardware Engineer_ (Mar 2021 - Aug 2021)  
 - **Find IT! UGM** - _Head of Capture the Flag Technical Committee_ (Jan 2021 - Jun 2021)  
-- **Komisi Pemilihan Umum Mahasiswa (KPUM) KM UGM** - _Coordinator of Information Technology Division_ (Jul 2020 - Nov 2020)  
-
-## 💡 Skills & Interests
-
-- **Programming Languages:** C, C++, C#, Python, PHP, Java, JavaScript, Go, Bash, MATLAB  
-- **Frameworks:** PyTorch, React, Gatsby, Next.js, Tailwind, Django, FastAPI, Express.js, Fiber  
-- **Tools:** VS Code, Git, Nginx, VPS, SSH, Cron  
-- **DevOps:** Docker, Kubernetes, GitHub Actions, Gitlab CI/CD  
-- **Graphic Design:** Figma, Photoshop, Illustrator  
-- **Data Science:** Machine Learning, Natural Language Processing, Computer Vision, Social Network Analysis, Statistics  
-- **Others:** Cloud Computing (_Azure, GCP_), Database/SQL, Data Engineering (_Spark, Hadoop, Kafka_), Data Analytics (_Tableau, Superset_), Information/Web Security, Cryptography, Internet of Things (_ESP32, Arduino, Raspberry Pi_)  
+- **Komisi Pemilihan Umum Mahasiswa (KPUM) KM UGM** - _Coordinator of Information Technology Division_ (Jul 2020 - Nov 2020)
 
 ![lan666as's GitHub stats](https://github-readme-stats-phi-peach-67.vercel.app/api?username=lan666as&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
 ![lan666as's Top Langs](https://github-readme-stats-phi-peach-67.vercel.app/api/top-langs/?username=lan666as&exclude_repo=android_kernel_HM2014811&size_weight=0.5&count_weight=0.5&langs_count=10&layout=pie&theme=transparent)
