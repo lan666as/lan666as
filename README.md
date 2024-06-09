@@ -14,7 +14,7 @@ Multifaceted information engineering graduate from UGM with a keen interest in s
 
 ### **Gadjah Mada University**
   - B.E. in Information Engineering  
-  CGPA: 3.66/4.0 (Aug 2019 - Oct 2023)  
+  CGPA: 3.66/4.0 (Aug 2019 - Dec 2023)  
   - **Thesis:** "Improving Text Style Transfer from Informal to Formal Indonesian: A Pretraining Approach with Pseudodata"  
   Enhanced Indonesian formality style transfer using pseudodata generated from token/character-level rules, incorporating WordNet, Part-of-Speech, lemma, and colloquial confusion sets, trained Tranformer model with Fairseq in PyTorch.
 
