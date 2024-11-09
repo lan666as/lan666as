@@ -34,7 +34,7 @@ Information engineering graduate from UGM with a keen interest in software engin
 - **International Genetically Engineered Machine (iGEM) UGM** - _Head of Wiki_ (Aug 2021 - Nov 2021)  
 - **Pelatihan Pembelajar Sukses bagi Mahasiswa Baru (PPSMB) UGM** - _Web Developer & Hardware Engineer_ (Mar 2021 - Aug 2021)  
 - **Find IT! UGM** - _Head of Capture the Flag Technical Committee_ (Jan 2021 - Jun 2021)  
-- **Komisi Pemilihan Umum Mahasiswa (KPUM) KM UGM** - _Coordinator of Information Technology Division_ (Jul 2020 - Nov 2020)
+- **Komisi Pemilihan Umum Mahasiswa (KPUM) KM UGM** - Head of Information Technology Division_ (Jul 2020 - Nov 2020)
 
 ![lan666as's GitHub stats](https://github-readme-stats-phi-peach-67.vercel.app/api?username=lan666as&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
 ![lan666as's Top Langs](https://github-readme-stats-phi-peach-67.vercel.app/api/top-langs/?username=lan666as&exclude_repo=android_kernel_HM2014811&size_weight=0.5&count_weight=0.5&langs_count=10&layout=pie&theme=transparent)
