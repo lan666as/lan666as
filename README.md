@@ -8,7 +8,7 @@ _Software Engineer / Data Scientist / Data Engineer_
 👾 [GitHub](https://github.com/lan666as)  
 📍 Sleman, Yogyakarta 55584  
 
-Multifaceted information engineering graduate from UGM with a keen interest in software engineering, data science, and information security. Contributed to projects across various domains and roles, driven by a commitment to excellence.  
+Information engineering graduate from UGM with a keen interest in software engineering, data science, and information security.
 
 ## 🎓 Education
 
