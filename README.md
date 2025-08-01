@@ -27,5 +27,4 @@ Information engineering graduate from UGM with a keen interest in software engin
 - **KLINIKOO** - _AI Engineer Intern_ (Jan 2022 - Feb 2022)  
 
 ![lan666as's GitHub stats](https://github-readme-stats-phi-peach-67.vercel.app/api?username=lan666as&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
-![lan666as's Top Langs](https://github-readme-stats-phi-peach-67.vercel.app/api/top-langs/?username=lan666as&exclude_repo=android_kernel_HM2014811&size_weight=0.5&count_weight=0.5&langs_count=10&layout=pie&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com?user=lan666as&theme=transparent&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
